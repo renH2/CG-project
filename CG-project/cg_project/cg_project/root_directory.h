@@ -1,0 +1,1 @@
+const char * logl_root = "D:/programs/cg_project/cg_project";

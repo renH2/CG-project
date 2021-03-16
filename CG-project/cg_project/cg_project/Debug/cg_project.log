@@ -1,0 +1,55 @@
+﻿  main.cpp
+d:\programs\cg_project\cg_project\shader.h(56): warning C4101: “e”: 未引用的局部变量
+d:\programs\cg_project\cg_project\main.cpp(288): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(352): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(353): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(390): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(391): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(453): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(454): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(462): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(474): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(506): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(507): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(564): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(565): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(628): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+d:\programs\cg_project\cg_project\main.cpp(650): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(651): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(885): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(991): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(992): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(995): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(996): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(997): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(998): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(1004): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(1016): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(1169): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\programs\cg_project\cg_project\main.cpp(1179): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1180): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1181): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1182): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1183): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1184): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1185): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1186): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1187): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1188): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1189): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1190): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1191): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1201): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(1236): warning C4018: “<”: 有符号/无符号不匹配
+d:\programs\cg_project\cg_project\main.cpp(1242): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1243): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1244): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1258): warning C4305: “参数”: 从“double”到“float”截断
+d:\programs\cg_project\cg_project\main.cpp(1370): warning C4018: “<”: 有符号/无符号不匹配
+  cg_project.vcxproj -> D:\programs\cg_project\Debug\cg_project.exe

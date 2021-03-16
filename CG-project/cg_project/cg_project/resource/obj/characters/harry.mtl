@@ -1,0 +1,342 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl material_166_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 17.1484
+map_Kd CDFB72C3D5E7F9CB_image_167.png
+map_bump 
+bump 
+map_opacity CDFB72C3D5E7F9CB_image_167.png
+map_d CDFB72C3D5E7F9CB_image_167.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_158_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 17.1484
+map_Kd 8DBB318395A7B98B_image_159.png
+map_bump 
+bump 
+map_opacity 8DBB318395A7B98B_image_159.png
+map_d 8DBB318395A7B98B_image_159.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_150_Rendering_effect
+Ka 0.7 0.7 0.7
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 37.8201
+map_Kd 4D7BF0435567794B_image_151.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_142_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 36.7583
+map_Kd 0D3BB1031527390B_image_143.png
+map_bump 
+bump 
+map_opacity 0D3BB1031527390B_image_143.png
+map_d 0D3BB1031527390B_image_143.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_134_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 18.3792
+map_Kd CCFA71C2D4E6F8CA_image_135.png
+map_bump 
+bump 
+map_opacity CCFA71C2D4E6F8CA_image_135.png
+map_d CCFA71C2D4E6F8CA_image_135.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_126_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 19.6983
+map_Kd 8C82308294A6B88A_image_127.png
+map_bump 
+bump 
+map_opacity 8C82308294A6B88A_image_127.png
+map_d 8C82308294A6B88A_image_127.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_118_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 24.2515
+map_Kd 4C42EF425466784A_image_119.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_110_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+map_Kd 0C02B0021426380A_image_111.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_102_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+map_Kd CBC170C1D3E5F7C9_image_103.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_94_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+map_Kd 8B812F8193A5B789_image_95.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_86_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 21.1121
+map_Kd 4B41EE4153657749_image_87.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_78_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 36.7583
+map_Kd 0B01AF0113253709_image_79.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_70_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 19.6983
+map_Kd 8A802E8092A4B688_image_71.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_62_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 42.2243
+map_Kd 4A40ED4052647648_image_63.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_54_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 51.9842
+map_Kd 0A00AE0012243608_image_55.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_46_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd C9FF6EFFD1E3F5C7_image_47.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_38_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 16
+map_Kd 89BF2DBF91A3B587_image_39.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_30_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd 497FEC7F51637547_image_31.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_22_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 36.7583
+map_Kd 093FAD3F11233507_image_23.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_14_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 25.9921
+map_Kd C8FE6DFED0E2F4C6_image_15.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl material_6_Rendering_effect
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd 88B62CBE90A2B486_image_7.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
