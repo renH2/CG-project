@@ -1,4 +1,4 @@
-# CG-project
+# CG-project (by GLFW)
 2020 ZJU CG project : **The Goblet of Fire**
 
 Detailed information is attached to the report 😋
